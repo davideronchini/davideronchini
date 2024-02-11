@@ -1,5 +1,5 @@
 # Davide Ronchini ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-**`Developer & Engeneering Student 🚀`**
+**`Developer & Engeneering Student ⚙️`**
 
 lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsumlorem ipsumlorem ipsumlorem ipsum lorem ipsumlorem ipsum lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum lorem ipsum.
 
@@ -48,6 +48,9 @@ lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ip
 <a href="http://www.github.com/davideronchini"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=davideronchini&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/davideronchini" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davideronchini&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### 🚀 Social
 
 [Linkedl]: https://www.linkedin.com/in/davide-ronchini-5b951921b/
 [Fiverr]: https://www.fiverr.com/davideronchini
