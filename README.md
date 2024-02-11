@@ -84,5 +84,9 @@ Davide is a highly skilled and motivated junior programmer with over two years o
     </picture> 
   </a>
 
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Fiverr Logo" width="32" height="32">](https://www.fiverr.com/davideronchini)
+  <a href="[https://www.x.com/r__davide](https://www.fiverr.com/davideronchini)" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="./fiverr-logo.svg" width="32" height="32" /> 
+    </picture>
+  </a>
 </p>
