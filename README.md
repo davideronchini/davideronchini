@@ -62,25 +62,25 @@ Davide is a highly skilled and motivated junior programmer with over two years o
 <p align="left"> 
   <a href="https://www.github.com/davideronchini" target="_blank" rel="noreferrer"> 
     <picture> 
-      <img src="./github-logo.svg" width="40" height="40" />  
+      <img src="./github-logo.svg" width="45" height="45" />  
     </picture> 
   </a> 
 
   <a href="https://www.x.com/r__davide" target="_blank" rel="noreferrer"> 
     <picture>
-      <img src="./twitter-logo.svg" width="40" height="40" /> 
+      <img src="./twitter-logo.svg" width="45" height="45" /> 
     </picture> 
   </a>
   
   <a href="https://www.linkedin.com/in/davide-ronchini-5b951921b" target="_blank" rel="noreferrer"> 
     <picture> 
-      <img src="./linkedIn-logo.svg" width="40" height="40" />  
+      <img src="./linkedIn-logo.svg" width="45" height="45" />  
     </picture> 
   </a>
 
   <a href="[https://www.x.com/r__davide](https://www.fiverr.com/davideronchini)" target="_blank" rel="noreferrer">
     <picture>
-      <img src="./fiverr-logo.svg" width="40" height="40" /> 
+      <img src="./fiverr-logo.svg" width="45" height="45" /> 
     </picture>
   </a>
 </p>
