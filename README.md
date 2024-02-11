@@ -9,7 +9,6 @@ Davide is a highly skilled and motivated junior programmer with over two years o
 
 ![GitHub followers](https://img.shields.io/github/followers/davideronchini?style=for-the-badge&logo=github&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF)
 ![GitHub watchers](https://img.shields.io/github/watchers/davideronchini/davideronchini?style=for-the-badge&logo=github&logoColor=%23FFFFFF&label=Watchers&labelColor=%23000000&color=%23FFFFFF)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/r__davide?style=for-the-badge&logo=x&label=Follow&labelColor=%23000000&color=rgba(255%2C%20255%2C%20255%2C%200))
 
 ---
 
@@ -78,9 +77,18 @@ Davide is a highly skilled and motivated junior programmer with over two years o
   </a> 
   
   <a href="https://www.linkedin.com/in/davide-ronchini-5b951921b" target="_blank" rel="noreferrer"> 
-    <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+    </picture> 
+  </a>
+  
+  <a href="https://www.x.com/r__davide" target="_blank" rel="noreferrer"> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
     </picture> 
   </a>
 </p>
