@@ -78,7 +78,7 @@ Davide is a highly skilled and motivated junior programmer with over two years o
     </picture> 
   </a>
 
-  <a href="[https://www.x.com/r__davide](https://www.fiverr.com/davideronchini)" target="_blank" rel="noreferrer">
+  <a href="https://www.x.com/r__davide](https://www.fiverr.com/davideronchini" target="_blank" rel="noreferrer">
     <picture>
       <img src="./fiverr-logo.svg" width="45" height="45" /> 
     </picture>
