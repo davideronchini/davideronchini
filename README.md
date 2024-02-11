@@ -5,10 +5,12 @@ Davide is a highly skilled and motivated junior programmer with over two years o
 
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [ronchinidavid3@gmail.com](mailto:ronchinidavid3@gmail.com)
+
   
 ![GitHub watchers](https://img.shields.io/github/watchers/davideronchini/davideronchini?style=flat&label=Profile%20Viewers)
 
 ---
+
 
 ### 🛠️ Languages and Tools
 
@@ -36,6 +38,8 @@ Davide is a highly skilled and motivated junior programmer with over two years o
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
 
+---
+
 
 ### 👨‍💻 Badges
 
@@ -49,8 +53,10 @@ Davide is a highly skilled and motivated junior programmer with over two years o
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davideronchini&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
+---
+
 
 ### 🚀 Social
 
-[Linkedl]: https://www.linkedin.com/in/davide-ronchini-5b951921b/
-[Fiverr]: https://www.fiverr.com/davideronchini
+Linkedl: https://www.linkedin.com/in/davide-ronchini-5b951921b/
+Fiverr: https://www.fiverr.com/davideronchini
