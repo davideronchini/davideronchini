@@ -7,9 +7,6 @@ Davide is a highly skilled and motivated junior programmer with over two years o
 * ✉️  You can contact me at [ronchinidavid3@gmail.com](mailto:ronchinidavid3@gmail.com)
 
 
-<a href="https://www.github.com/davideronchini" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/davideronchini?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" />
-</a
 ![GitHub watchers](https://img.shields.io/github/watchers/davideronchini/davideronchini?style=for-the-badge)
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fscreen_name%3Dr__davide&style=for-the-badge&label=Follow%20%40r__davide&color=rgba(255%2C%20255%2C%20255%2C%200)&link=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fscreen_name%3Dr__davide)
 
