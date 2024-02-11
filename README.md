@@ -1,7 +1,7 @@
 # Davide Ronchini ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 **`Developer & Engeneering Student ⚙️`**
 
-lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsumlorem ipsumlorem ipsumlorem ipsum lorem ipsumlorem ipsum lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum lorem ipsum.
+Davide is a highly skilled and motivated junior programmer with over two years of experience in web and mobile development. He has a strong skill set, having worked with technologies such as HTML, CSS, JavaScript, PHP, Java, Flutter, C/C++ and Python. Davide has successfully created and launched projects like Smokeless and KartMaster, which you can find on the Play Store. He is proactive in staying up to date with the latest technology and best practices. This allows him to bring new ideas and approaches to projects and helps him to continuously improve his skills.
 
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [ronchinidavid3@gmail.com](mailto:ronchinidavid3@gmail.com)
