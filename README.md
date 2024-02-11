@@ -43,7 +43,6 @@ Davide is a highly skilled and motivated junior programmer with over two years o
 ### 👨‍💻 Projects
 
 - Smokeless (Android & iOS app): https://play.google.com/store/apps/details?id=com.hap.smokeless&pcampaignid=web_share
-- Kart Master (Website): 
 - Kart Master (Android app): https://play.google.com/store/apps/details?id=com.hap.kartmaster&pcampaignid=web_share
 
 
