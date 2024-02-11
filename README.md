@@ -64,7 +64,7 @@ Davide is a highly skilled and motivated junior programmer with over two years o
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="34" height="34" /> 
     </picture> 
   </a> 
 
@@ -72,19 +72,19 @@ Davide is a highly skilled and motivated junior programmer with over two years o
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="34" height="34" /> 
     </picture> 
   </a>
   
   <a href="https://www.linkedin.com/in/davide-ronchini-5b951921b" target="_blank" rel="noreferrer"> 
     <picture> 
-      <img src="./linkedIn-logo.svg" width="33" height="33" />  
+      <img src="./linkedIn-logo.svg" width="34" height="34" />  
     </picture> 
   </a>
 
   <a href="[https://www.x.com/r__davide](https://www.fiverr.com/davideronchini)" target="_blank" rel="noreferrer">
     <picture>
-      <img src="./fiverr-logo.svg" width="33" height="33" /> 
+      <img src="./fiverr-logo.svg" width="34" height="34" /> 
     </picture>
   </a>
 </p>
