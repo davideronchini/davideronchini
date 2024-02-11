@@ -8,8 +8,8 @@ Davide is a highly skilled and motivated junior programmer with over two years o
 
 
 ![GitHub followers](https://img.shields.io/github/followers/davideronchini?style=for-the-badge&logo=github&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF)
-![GitHub watchers](https://img.shields.io/github/watchers/davideronchini/davideronchini?style=for-the-badge&logo=github&logoColor=%23000000&labelColor=%23FFFFFF&color=%23FFFFFF)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fscreen_name%3Dr__davide&style=for-the-badge&label=Follow%20%40r__davide&color=rgba(255%2C%20255%2C%20255%2C%200)&link=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fscreen_name%3Dr__davide)
+![GitHub watchers](https://img.shields.io/github/watchers/davideronchini/davideronchini?style=for-the-badge&logo=github&logoColor=%23FFFFFF&label=Watchers&labelColor=%23000000&color=%23FFFFFF)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/r__davide?style=for-the-badge&logo=x&label=Follow&labelColor=%23000000&color=rgba(255%2C%20255%2C%20255%2C%200))
 
 ---
 
