@@ -78,13 +78,13 @@ Davide is a highly skilled and motivated junior programmer with over two years o
   
   <a href="https://www.linkedin.com/in/davide-ronchini-5b951921b" target="_blank" rel="noreferrer"> 
     <picture> 
-      <img src="./linkedln-logo.svg" width="33" height="33" />  
+      <img src="./linkedIn-logo.svg" width="32" height="32" />  
     </picture> 
   </a>
 
   <a href="[https://www.x.com/r__davide](https://www.fiverr.com/davideronchini)" target="_blank" rel="noreferrer">
     <picture>
-      <img src="./fiverr-logo.svg" width="33" height="33" /> 
+      <img src="./fiverr-logo.svg" width="32" height="32" /> 
     </picture>
   </a>
 </p>
