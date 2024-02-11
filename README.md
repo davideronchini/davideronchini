@@ -49,7 +49,9 @@ Davide is a highly skilled and motivated junior programmer with over two years o
 
 ### 🎖️ Badges
 
+<!--
 <a href="http://www.github.com/davideronchini"><img src="https://github-readme-stats.vercel.app/api?username=davideronchini&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="davideronchini's GitHub stats" /></a>
+-->
 
 <a href="http://www.github.com/davideronchini"><img src="https://github-readme-streak-stats.herokuapp.com/?user=davideronchini&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
