@@ -6,9 +6,10 @@ Davide is a highly skilled and motivated junior programmer with over two years o
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [ronchinidavid3@gmail.com](mailto:ronchinidavid3@gmail.com)
 
-
+<!--
 ![GitHub followers](https://img.shields.io/github/followers/davideronchini?style=for-the-badge&logo=github&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF)
 ![GitHub watchers](https://img.shields.io/github/watchers/davideronchini/davideronchini?style=for-the-badge&logo=github&logoColor=%23FFFFFF&label=Watchers&labelColor=%23000000&color=%23FFFFFF)
+-->
 
 ---
 
