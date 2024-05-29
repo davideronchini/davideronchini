@@ -14,6 +14,13 @@ Davide is a highly skilled and motivated junior programmer with over two years o
 ---
 -->
 
+██████╗  █████╗ ██╗   ██╗██╗██████╗ ███████╗
+██╔══██╗██╔══██╗██║   ██║██║██╔══██╗██╔════╝
+██║  ██║███████║██║   ██║██║██║  ██║█████╗
+██║  ██║██╔══██║╚██╗ ██╔╝██║██║  ██║██╔══╝
+██████╔╝██║  ██║ ╚████╔╝ ██║██████╔╝███████╗
+╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝ ╚══════╝
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -45,6 +52,7 @@ Davide is a highly skilled and motivated junior programmer with over two years o
 
 - Smokeless (Android & iOS app): https://play.google.com/store/apps/details?id=com.hap.smokeless&pcampaignid=web_share
 - Kart Master (Android app): https://play.google.com/store/apps/details?id=com.hap.kartmaster&pcampaignid=web_share
+- Kart Master (Website): https://kart-master.000webhostapp.com/
 
 <!--
 ### 🎖️ Badges
