@@ -2,41 +2,17 @@
 <!-- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) -->
 **`Developer & Engeneering Student ⚙️`**
 
+<!--
 Davide is a highly skilled and motivated junior programmer with over two years of experience in web and mobile development. He has a strong skill set, having worked with technologies such as HTML, CSS, JavaScript, PHP, Java, Flutter, C/C++ and Python. Davide has successfully created and launched projects like Smokeless and KartMaster, which you can find on the Play Store. He is proactive in staying up to date with the latest technology and best practices. This allows him to bring new ideas and approaches to projects and helps him to continuously improve his skills.
 
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [ronchinidavid3@gmail.com](mailto:ronchinidavid3@gmail.com)
 
-<!--
 ![GitHub followers](https://img.shields.io/github/followers/davideronchini?style=for-the-badge&logo=github&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFFFFF)
 ![GitHub watchers](https://img.shields.io/github/watchers/davideronchini/davideronchini?style=for-the-badge&logo=github&logoColor=%23FFFFFF&label=Watchers&labelColor=%23000000&color=%23FFFFFF)
--->
-
-  ____              _     _
- |  _ \  __ ___   _(_) __| | ___
- | | | |/ _` \ \ / / |/ _` |/ _ \
- | |_| | (_| |\ V /| | (_| |  __/
- |____/ \__,_| \_/ |_|\__,_|\___|
-
- ██████╗  █████╗ ██╗   ██╗██╗██████╗ ███████╗
-██╔══██╗██╔══██╗██║   ██║██║██╔══██╗██╔════╝
-██║  ██║███████║██║   ██║██║██║  ██║█████╗
-██║  ██║██╔══██║╚██╗ ██╔╝██║██║  ██║██╔══╝
-██████╔╝██║  ██║ ╚████╔╝ ██║██████╔╝███████╗
-╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝ ╚══════╝
-
-__/\\\\\\\\\\\\_______________________________________________/\\\_________________
- _\/\\\////////\\\____________________________________________\/\\\_________________
-  _\/\\\______\//\\\_______________________________/\\\________\/\\\_________________
-   _\/\\\_______\/\\\__/\\\\\\\\\_____/\\\____/\\\_\///_________\/\\\______/\\\\\\\\__
-    _\/\\\_______\/\\\_\////////\\\___\//\\\__/\\\___/\\\___/\\\\\\\\\____/\\\/////\\\_
-     _\/\\\_______\/\\\___/\\\\\\\\\\___\//\\\/\\\___\/\\\__/\\\////\\\___/\\\\\\\\\\\__
-      _\/\\\_______/\\\___/\\\/////\\\____\//\\\\\____\/\\\_\/\\\__\/\\\__\//\\///////___
-       _\/\\\\\\\\\\\\/___\//\\\\\\\\/\\____\//\\\_____\/\\\_\//\\\\\\\/\\__\//\\\\\\\\\\_
-        _\////////////______\////////\//______\///______\///___\///////\//____\//////////__
 
 ---
-
+-->
 
 ### 🛠️ Languages and Tools
 
